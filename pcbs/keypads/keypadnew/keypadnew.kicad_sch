@@ -894,14 +894,14 @@
     (uuid f3da4a8c-c7f5-4d69-8cea-d83ca02c1518)
   )
 
-  (rectangle (start 27.94 83.82) (end 77.47 106.68)
+  (rectangle (start 25.4 88.9) (end 74.93 111.76)
     (stroke (width 0) (type default))
     (fill (type none))
     (uuid b5d9032c-5fa3-4cd6-8951-216f33052c5f)
   )
 
   (text "NOTES:\n- Decouple Capacitor entirely on DevKit board\n- USB ESD Protection also on DevKit board\n- PCB is assumed on Low Frequency Signals\n- I2C Has no Pull Up Resistor\n- Assumed PCB is Full PTH\n- Polygon/Island:\n	- Top: 3V3\n	- Botton: GND"
-    (at 29.21 97.79 0)
+    (at 27.94 109.22 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 6de935d6-01d2-4845-92bf-17b771fabff1)
   )
