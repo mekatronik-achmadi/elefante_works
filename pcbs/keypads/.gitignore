@@ -1,4 +1,6 @@
 acuan/*-backups/
 acuan/fp-info-cache
+acuan/*.lck
 keypadnew/*-backups/
 keypadnew/fp-info-cache
+keypadnew/*.lck
